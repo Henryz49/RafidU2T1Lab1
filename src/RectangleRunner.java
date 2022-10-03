@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class RectangleRunner {
+public class RectangleRunner {
+    public static void main(String[] args) {
+
+    }
 }
